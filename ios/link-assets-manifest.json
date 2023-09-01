@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Courgette-Regular.ttf",
+      "sha1": "0e6826b92f8f80fe2eb803bdef7d81355845e283"
+    },
+    {
+      "path": "assets/fonts/DancingScript-VariableFont_wght.ttf",
+      "sha1": "f6ef1641594430e8367d9c26819a900c879b8f35"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-VariableFont_wght.ttf",
+      "sha1": "ad2439d6f0dfc795c4dbefb342383f9f02810427"
+    },
+    {
+      "path": "assets/fonts/MerriweatherSans-VariableFont_wght.ttf",
+      "sha1": "58cbfe3885bf047562ecc8650957fdb44b53525d"
+    },
+    {
+      "path": "assets/fonts/Rubik-VariableFont_wght.ttf",
+      "sha1": "80fbecd6d6cb21096b3e0277222e696c77ceb7eb"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328866006523",
+    "project_id": "vedatmilor-a206b",
+    "storage_bucket": "vedatmilor-a206b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328866006523:android:8a816db61f633dd1a9b75e",
+        "android_client_info": {
+          "package_name": "com.vedatmilor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328866006523-9q9b37av29qatuqmokur5k3re0teebbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzC_25uw2UNsCfXfmcqdO2V_ZStV7b1LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328866006523-9q9b37av29qatuqmokur5k3re0teebbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

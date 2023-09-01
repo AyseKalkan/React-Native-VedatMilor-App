@@ -1,0 +1,194 @@
+[
+    {
+      "sehir": "Ankara",
+      "restoranlar": [
+        {
+        "RestoranAdi": "Kalbur Balık Restaurant",
+        "id": 1,
+        "yazi": "Bazen hiç beklemediğiniz yerlerde çok ilginç yemekler bulabiliyorsunuz. Tıpkı benim Ankara’daki Kalbur’da yaşadığım gibi. Burası küçük bir lokanta. Daha çok meze ve balık üzerine eğiliyorlar. Rezervasyonsuz gelmeyi pek düşünmeyin derim. Mutfağının en büyük özelliği kendine özgü ve yaratıcı oluşu. Mezelerin severek ve işi bilerek hazırlanması.",
+        "konum": " Çankaya/Ankara",
+        "tavsiyeler": [
+            "Balık Pastırma",
+            "Fava",
+            "Balık kokoreç",
+            "Ahtapot",
+            "Izgara çinekop"
+        ],
+        "adres": "Kalbur, Oran Mahallesi, Oran Çarşısı C Blok No:23, 06450 Çankaya/Ankara",
+        "telefon": "+903124905001",
+        "web": "http://kalbur.com.tr",
+        "yorumlar": [
+            {
+              "rating1": 5,
+              "isim": "Suat Aydın",
+              "yorum": "Midenizi doldurmak için bir yer arıyorsanız, orası burası değil. Sadece 10 lokma ama her biri lezzet patlaması olan lokmalarsa aradığınız, doğru yerdesiniz. "
+            },
+            {
+              "rating1": 4.5,
+              "isim": "S. FIRAT",
+              "yorum": "Sadece Ankara değil ülkemizde ender bulunur bir yer. Mehmet beyle eşinin ömrünü adadığı bir lezzet mekanı. Kredi kartı geçmiyor, rezervasyonsuz gidilmiyor, dikkat!"
+            }
+          ],
+          "photoUrl": "https://rehber.vedatmilor.com/wp-content/uploads/Screen-Shot-2018-09-18-at-16.02.37.png",
+          "lat": 39.84911493113438,
+          "lng": 32.821958759379804,
+          "rating": 4
+  
+        },
+        {
+            "RestoranAdi": "Trilye Restaurant",
+            "id": 2,
+            "yazi": "Trilye’nin sahibi, değerli Süreyya Üzmez Bey bu işi sevmenin ötesinde inanarak yapıyor. Amatör ruhunu koruyor. Onun işletmecilikten de önde gelen misyonu denizlerimize sahip çıkılması. Bu amaçla denizlerimizde balıklarımızın çoğalması, tanıtılması ve avlanma bilincinin yerleşmesi onun için lokantanın karlılığından önemli.",
+                "konum": "Ankara",
+                "tavsiyeler": [
+                    "Balık çeşitleri" 
+                ],
+                "adres": "Çankaya Mahallesi, Kazım Özalp Mah. Kuleli Sok. No: 32, 06680 Ankara",
+                "telefon": "+903124471200",
+                "web": "http://www.trilye.com.tr/",
+                "yorumlar": [
+                    {
+                      "rating1": 3.5,
+                  "isim": "Alper",
+                  "yorum": "Servis, hizmet ve ambiyans iyi düzeydeydi fakat yediğimiz yemeklerin neredeyse hiçbirisi tekrar sadece bunun için gelirim diyeceğim veya spesifik olarak başkalarına tavsiye edeceğim türden değildi. Yani en fazla ortalama denebilir. Fiyatlar da göz önünde bulund maalesef lezzet fiyatların bir, belki iki tık gerisinde kalıyor ne yazık ki. Sipariş ettiğimiz yemeklerden bazıları, yenebilir fena değilmiş diyeceğimiz düzeyde olmasına rağmen kimisi ise ,özellikle bazı ara sıcaklar keşke sipariş etmeseydik diyeceğimiz türdendi."
+                },
+                {
+                  "rating1": 5,
+                  "isim": "R.Ruhi ŞENEL",
+                  "yorum": "Lezzetler muhteşem.Servis harika. Kapısından mutfağına kadar insana kendisini değerli hissettiren bir havası var. Emeği geçen herkese teşekkürler."
+                }
+              ],
+              "photoUrl": "https://rehber.vedatmilor.com/wp-content/uploads/Screen-Shot-2018-09-01-at-17.46.00.png",
+              "lat": 39.894067570234284,
+              "lng":  32.871979011829474,
+              "rating": 4
+      
+            }  
+      ]
+    },
+    {
+        "sehir": "Ordu",
+        "restoranlar": [
+          {
+          "RestoranAdi": "Meşhur Pide",
+          "id": 3,
+          "yazi": "Ordu’yu ziyaretimizde buranın da pidelerini denemiştik. O bölgede pide denemek isteyenler için tavsiye ederim.",
+                "konum": "Ordu",
+                "tavsiyeler": [
+                    "Kıymalı pide",
+                    "Peynirli pide"
+                ],
+                "adres": "Meşhur Pide, Merkez, Düz Mahalle Yıldız Sokak N0-21/B, 52100 Ordu",
+                "telefon": "+904522149099",
+                "web": "",
+                "yorumlar": [
+                    {
+                      "rating1": 5,
+                "isim": "Nç",
+                "yorum": "Kesinlikle 5 yıldızı hak eden bir lezzet"
+              },
+              {
+                "rating1": 3.5,
+                "isim": "Gizem",
+                "yorum": "Yemekten her zaman keyif alacagım pideci meshur. Gurbette aklıma geldiginde üzüntüden bayılıyorum:("
+              }
+            ],
+            "photoUrl": "https://rehber.vedatmilor.com/wp-content/uploads/Screen-Shot-2018-09-08-at-18.25.15.png",
+            "lat": 40.98562280703182, 
+            "lng": 37.87877780464024,
+            "rating": 4
+          },
+          {
+              "RestoranAdi": "Vonalı Celal",
+              "id": 4,
+              "yazi": "Yöredeyken balık lokantası denemeden olmaz. Rehberimiz bizi Perşembe kazasındaki Vonalı Celal’e götürdü. İyi de yaptı. Mekân, denize sıfır. Yemekler kötü bile olsa günbatımında hırçın dalgaların sarp kayalıklara vurmasını seyretmek transandantal bir ruh haline sokuyor adamı. Ama işin ilginci, balıklar ve mezeler belli bir düzeyin altına düşmüyor. O küçük mutfakta bu kadar kişiye düzgün, yani aşırı pişerek kurumamış yemek çıkaran aşçıya ve sevimli işletmeciler Celal Bey ve kardeşine helâl olsun. Tereyağında mısır unuyla yapılan mezgit ve kalkan tavayı beğendim. Kiremitte iskorpit buğulama zevk verdi. Hamsili pilav iyiceydi. Karalahana sürgünü ve özellikle beyaz kiraz kavurma mutlak denenmeli. Burası balık dışında turşularıyla meşhur ve aklınıza gelebilecek her ürünün turşusunu kuruyorlar. Ama “Şapka çıkarılır” diyeceğim lezzet köfte…",
+                "konum": "perşembe/Ordu",
+                "tavsiyeler": [
+                    "Mezgit",
+                    "Kalkan tava",
+                    "Karalahana sürgünü",
+                    "Beyaz kiraz kavurma"
+                ],
+                "adres": "Ramazan mah. Yalı sok no:10, 52750 perşembe/Ordu",
+                "telefon": "+904525872137",
+                "web": "",
+                "yorumlar": [
+                    {
+                      "rating1": 4.5,
+                    "isim": "arif çoban",
+                    "yorum": "vonalı celal bir ara istanbul macerası olmuştu.allahtan kısa sürdü mesleğe geri döndü.ülkemizde yemeği sanatla birleştiren nadir yerlerden biridir.balıklar enfes.yolunuz orduya düştüğünde uğramadan dönmeyin"
+                  }
+                ],
+                "photoUrl": "https://rehber.vedatmilor.com/wp-content/uploads/Screen-Shot-2018-09-02-at-13.25.15.png",
+                "lat": 41.11643963611033, 
+                "lng": 37.73763528618673,
+                "rating": 4
+              }  
+        ]
+      },
+      {
+        "sehir": "Eskişehir",
+        "restoranlar": [
+          {
+          "RestoranAdi": "Yudum Lokantası (Kör Kamil)",
+          "id": 5,
+          "yazi": "Yudum Lokantası ya da eskiden beri bilinen adıyla Kör Kamil, Cumhuriyetin ilk dönemlerine giden kuruluş tarihiyle Eskişehir’in en eski meyhanelerinden. Onlarca yıllık müdavimleri var. Senelerdir standartlarını istikrarlı biçimde koruyorlar. Mezelerinin her daim tatmin edici düzeyde olduğunu söyleyebiliriz. Mevsime göre menüde mutlaka bir zeytinyağlı yemeğe de (pırasa, enginar, bakla ya da kereviz gibi) yer verirler. Bombay fasülye, beyin, yoğurtlu mezeleri, kendi yaptıkları mayonezi kullandıkları rus salatası gibi yemeklerin hepsi memnun edecek seviyede. Ara sıcak olarak ciğeri ve paçana böreği ortalamanın üstünde. Şubat sonu Mayıs arası dönemde özel kazanlarda pişirilen Balıkesir kuzularından yapılan kellesi ise mutlaka tavsiye edilir. Hamsi tava, kavurma, meyhane köftesi ve kuzu şişi meyhane kategorisindeki bir restoran için başarılı yemekler. Tatlı olarak, kabak ve Eskişehir’in meşhur helvasını deneyebilirsiniz.",
+                "konum": " Odunpazarı/Eskişehir",
+                "tavsiyeler": [
+                    "Sarımsaklı yoğurtlu bakla",
+                    "Kuzu kelle",
+                    "Arnavut ciğeri"
+                ],
+                "adres": "Kör Kamil, Arifiye, İki Eylül Cd. No:23, 26010 Odunpazarı/Eskişehir",
+                "telefon": "+90 222 231 60 11",
+                "web": "",
+                "yorumlar": [
+                    {
+                      "rating1": 4.5,
+                "isim": "Yeliz Özel",
+                "yorum": "Lezzet Rehberinin tavsiyesi ile gittik ve çok beğendik, gitmek isteyenlere rezervasyon yaptırıp öyle gitmelerini öneririm,ayrıca kesinlikle girit ezmesi ciğeri tatmalısınız."
+              },
+              {
+                "rating1": 5,
+                "isim": "Rıdvan26",
+                "yorum": "30 yıldır müdavimi olduğum mekan. Kellesi tek kelime ile enfes. Kavurması v err ciğeri de güzel. Kış ise kabak tatlısını mutlaka deneyin."
+              }
+            ],
+            "photoUrl": "https://rehber.vedatmilor.com/wp-content/uploads/Screenshot-2022-02-03-at-11.36.47.jpg",
+                "lat": 39.774676483298904,
+                "lng": 30.51795110569311,
+                "rating": 4.5
+          },
+          {
+              "RestoranAdi": "Tatlıdil Köftecisi",
+              "id": 6,
+              "yazi": "Tarihi bir restoranı değerlendirmeye nasıl yaklaşmak lazım? Belki de en iyisi Vedat Milor’un yaptığı gibi onları ikiye ayırmak: tarihlerine ihanet edenler ve etmeyenler. İlk gruptakiler sizi önünüze getirdikleri tabakla değil de tarihleri ile etkilemeye çalışanlar. Tarihlerine ihanet etmeyenler ise asırlık geçmişlerinden kaynaklanan tecrübeyi gerektiği gibi tabaktaki yemeğe yansıtabilmiş oluyorlar. Tatlıdil Köftecisi, Eskişehir’deki ilk esnaf lokantalarından biri: 1932 yılında kurulmuş. Yaptıkları şey hem basit hem zor. Basit çünkü köfte çok kompleks bir yemek değil. Öte yandan, giderek yozlaşan ve bozulan yemek dünyasında kaliteyi belli bir seviyede tutarak var olmaya devam edebilmek zor bir iş. Tatlıdil Köftecisi, iyi bir dana etinden yaptıkları ızgara köfteleri ve üzüm şıralarıyla size güzel bir ziyafet sunuyor.",
+                "konum": "Odunpazarı/Eskişehir",
+                "tavsiyeler": [
+                    "Izgara köfte",
+                    "Şıra"
+                ],
+                "adres": "Arifiye Mahallesi, Çarşı Yandaş Sok. No:19, 26010 Odunpazarı/Eskişehir",
+                "telefon": "+902222347524",
+                "web": "http://tatlidilkoftecisi.com",
+                "yorumlar": [
+                    {
+                      "rating1": 4,
+                    "isim": "Mehmet Durul",
+                    "yorum": "Yıllar ve nesiller boyunca değişmeyen, son derece yalın bir lezzet. Sade sunumu ile sadece köfteye odaklanıyorsunuz. Tek eleştirim porsiyonların biraz küçük olması olabilir."
+                  },
+                  {
+                    "rating1": 5,
+                    "isim": "Yeliz Özel",
+                    "yorum": "Köfte çok lezzetliydi ama tadı damağımızda kalsın diye tabağa çok az koymuşlardı : ) yani porsiyonları çok küçük."
+                  }
+                ],
+                "photoUrl": "https://rehber.vedatmilor.com/wp-content/uploads/Screen-Shot-2018-11-18-at-13.38.39.png",
+                "lat": 39.77407654128227,
+                "lng": 30.51868415942341,
+                "rating": 4.5
+        
+              }  
+        ]
+      }
+  ]
